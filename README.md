@@ -200,7 +200,7 @@ The dashboard includes key metrics and visualizations related to:
 
 ![Customer Shopping Behavior Dashboard](dashboard.png)
 
-> **Note:** Place your Power BI dashboard screenshot in the same folder as this README and rename the image to `dashboard.png`.
+
 
 ---
 
